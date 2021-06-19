@@ -1,31 +1,5 @@
-# This is a sample of my data science work.
+# Data Science Portfolio.
 
-The web page design was made possible by the generocity of @ajlkn. 
+A repo of data science projects completed for educational purposes, fun, and practice. All projects were completed using Jupyter Notebooks and Python and exported to html and uploaded here. 
 
-Below are the details. 
-
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+A more visually and aesthetically pleasing experience can be found at [Github's pages](https://codeja3.github.io). The web page design there was made possible by the generocity of @ajlkn.
